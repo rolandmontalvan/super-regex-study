@@ -1,0 +1,21 @@
+PRODUTO, optiplex, monitor,laptop,notebook,desktop,precisão,alienware,inspiron,latitude,xps,vostro,estação de trabalho, G7, G6, G5, G4, G3, dock station, docking station, mouse, teclado, computador, webcam, microfone, câmera, monitores, laptops, 2 em 1, dell ultrasharp 32 4k usb, xps, optiplex, servidor de torre poweredge t140, adaptador dell-usb-c, new vostro, dell vostro, docking station, new precision, alienware, dell thunderbolt dock, escritório
+dinheiro, BRL, $BRL
+descrição, gb, dd, vídeo, cardintel, gráficos uhd, rtx, ram, core, ssd, disco rígido, tela nit, W / S básico, processadores gz, polegada, placa gráfica dedicada, ddr4, ddr3, mhz, usb c, tb, mb, dvd-rwuse, nvidia, pcie, nvme, unidade de estado sólido, geforce, gpu, hdmi, rpm, fhd screen, gig, gigi, onboard, núcleos, ghz, qwin, sdi driverless
+QUALIFIER, novo, atualização
+PROCURAR, olhando para, procurando, buscando, considerando um, considerando um, interessado em, preciso de um, preciso de um, pensando em, selecionei
+PRODUCT FOR, best * for, best * for, a * for, uma cotação para, funcionar bem com, trabalhar com
+TARGET USE, work laptop, adobe, premiere, office, solidworks, auto cad, autocad, windows
+RECOMENDACAO, recomendar, recomendações, sugestão de recomendação, mostrar-me
+COMPRAR, comprar, negociar, comprar, obter uma cotação, cotação, desconto
+FEATURE, core, i7, i6, compatible, camera, memory, cover, touch screen, ram, powershare, lcd, display, smart card, usb c, ssd, hdd, hd, GB, wi-fi, wireless
+PROMO, preço especial, promoção, promoção, código de cupom, cupom, aluno, tentando se inscrever
+POSSESSAO, tenho um, tenho, meu laptop, meu computador
+PEDIDO, feito uma compra, pedido, comprado, meu pedido, minha compra, comprado, meu pedido, meu último pedido
+SUPORTE, preciso de ajuda, me ajude, suporte, tendo problema, problemas, tendo problemas, atendimento ao cliente, serviço
+STATUS, status, cancelado, cancelar, devolvido, limpo, concluído
+TRANSPORTE, entrega, agilizar, data
+TAG SERVICO, etiqueta de serviço, código de serviço expresso, etiqueta svc
+NÚMERO DO PEDIDO, número do pedido, número do pedido
+ACAO, acabou de fazer, fez um pedido, pedidos, não posso ligar
+BUG, não está carregando, quebrado, quebrado, não funciona, não funciona, como esperado, superaquecimento
+PECA, número da peça, número da peça, substituição
